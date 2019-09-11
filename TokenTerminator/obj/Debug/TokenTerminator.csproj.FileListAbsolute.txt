@@ -1,0 +1,14 @@
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\TokenTerminator.exe.config
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\TokenTerminator.exe
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\TokenTerminator.pdb
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\Leaf.xNet.dll
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\Leaf.xNet.xml
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\obj\Debug\TokenTerminator.csprojAssemblyReference.cache
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\obj\Debug\TokenTerminator.csproj.CoreCompileInputs.cache
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\obj\Debug\TokenTerminator.csproj.CopyComplete
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\obj\Debug\TokenTerminator.exe
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\obj\Debug\TokenTerminator.pdb
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\Anarchy.dll
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\erjon\source\repos\TokenTerminator\TokenTerminator\bin\Debug\websocket-sharp-with-proxy-support.dll
