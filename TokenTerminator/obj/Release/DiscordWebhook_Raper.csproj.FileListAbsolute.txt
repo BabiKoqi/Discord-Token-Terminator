@@ -1,0 +1,11 @@
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\DiscordWebhook_Raper.exe.config
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\DiscordWebhook_Raper.exe
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\DiscordWebhook_Raper.pdb
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\Colorful.Console.dll
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\Leaf.xNet.dll
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\bin\Release\Leaf.xNet.xml
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\obj\Release\DiscordWebhook_Raper.csprojAssemblyReference.cache
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\obj\Release\DiscordWebhook_Raper.csproj.CoreCompileInputs.cache
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\obj\Release\DiscordWebhook_Raper.csproj.CopyComplete
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\obj\Release\DiscordWebhook_Raper.exe
+C:\Users\erjon\source\repos\DiscordWebhook_Raper\DiscordWebhook_Raper\obj\Release\DiscordWebhook_Raper.pdb
