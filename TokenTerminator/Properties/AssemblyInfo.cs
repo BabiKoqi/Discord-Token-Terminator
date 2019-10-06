@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DiscordWebhook_Raper")]
+[assembly: AssemblyTitle("TokenTerminator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DiscordWebhook_Raper")]
+[assembly: AssemblyProduct("TokenTerminator")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b83eae2d-1cf6-4e0b-8f3b-48de11af5b3b")]
+[assembly: Guid("f6890490-4272-404e-89b1-f73b931866d6")]
 
 // Version information for an assembly consists of the following four values:
 //
